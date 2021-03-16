@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**, **Javascript**, **Ruby**
 
-- 👨‍💻 All of my projects are available at [toddneale.xyz](toddneale.xyz)
+- 👨‍💻 All of my projects are available at [toddneale.xyz](http://toddneale.xyz/)
 
 - 💬 Talk to me about **Anything**
 
