@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, My name is Todd</h1>
-<h3 align="center">I am just starting my coding journey</h3>
+<h3 align="center">I am Ruby on Rails Teacher at Le Wagon, London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=todd-neale&label=Profile%20views&color=0e75b6&style=flat" alt="todd-neale" /> </p>
 
-- 🌱 I’m currently learning **React**, **Javascript**, **Ruby**
+- 🌱 I’m currently perfecting **Javascript**
 
-- 👨‍💻 All of my projects are available at [toddneale.xyz](http://toddneale.xyz/)
+- 👨‍💻 My website is [toddneale.xyz](http://toddneale.xyz/)
 
-- 💬 Talk to me about **Anything**
+- 💬 Talk to me about **Learning to Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
