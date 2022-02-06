@@ -7,12 +7,33 @@
 
 - 👨‍💻 My website is [toddneale.xyz](http://toddneale.xyz/)
 
-- 💬 Talk to me about **Learning to Code**
+### In the repos below you can see three rails projects from le wagon bootcamp
+#### Megalithipedia - https://great-stones.herokuapp.com/
+<img height='30' src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-256.png" /> &nbsp; &nbsp; <img height='30' src="https://doc.octoperf.com/monitoring/create-connection/postgres/img/postgresql-logo.png" />  &nbsp; <img height='30' src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" />
+* my team's final project: Find megalithic sites, discuss ancient history, plan walks around stones with chums.
+    * featuring: Complex DB schema // Geocoding // AJAX for clean UX // devise for authentication
+* I have recently forked this repo to start adding extra features for my professional development:
+    * testing: system tests on some user stories, and use of github actions and workflows to understand CI work structures.
+    * websockets: live chat so that enthusiasts can chew the fat on their upcoming and past rambles.
+#### Mister Cocktail - https://space-cat-cocktails.herokuapp.com/ <img width='30' height='30' src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-256.png" />
+* a CRUD app
+#### Rusty Amusements - http://rusty-amusements.herokuapp.com/ <img width='30' height='30' src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-256.png" />
+* an airbnb/marketplace clone
+
+<sup>_Since these sites do not yet have a vibrant user base, please have patience if you would like to load them as heroku will have put them to sleep._</sup>
+
+### Other repos of work since bootcamp completion
+
+#### API Depreciation Backend - https://tray-dashboard-aatd-app.herokuapp.com <img height='30' src="https://res.cloudinary.com/practicaldev/image/fetch/s--fMLkbtT9--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/j0xrwz8vsxkvc5b4nndy.png" />
+* Hackathon task to make a dashboard for a middleware company to track all the APIs they have integrated and any upcoming updates or depreciations.
+* I was tasked with Backend Work with @arfacamble on the Rails API backend while @damonspencerroberts lead on react frontend
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/todd neale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="todd neale" height="30" width="40" /></a>
-<a href="https://instagram.com/t_ddneale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="t_ddneale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
