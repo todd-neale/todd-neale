@@ -15,10 +15,10 @@
 * I have recently forked this repo to start adding extra features for my professional development:
     * testing: system tests on some user stories, and use of github actions and workflows to understand CI work structures.
     * websockets: live chat so that enthusiasts can chew the fat on their upcoming and past rambles.
-#### Mister Cocktail - https://space-cat-cocktails.herokuapp.com/ <img width='30' height='30' src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-256.png" />
-* a CRUD app
-#### Rusty Amusements - http://rusty-amusements.herokuapp.com/ <img width='30' height='30' src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-256.png" />
-* an airbnb/marketplace clone
+#### Tash Richards Yoga - https://tashrichards.yoga/
+<img height='30' src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nuxtjs-512.png" />
+* a small yoga website for my friend a yogi Tash Richards.
+    * the app is built using Nuxt.js and CraftCMS using elementAPI
 
 <sup>_Since these sites do not yet have a vibrant user base, please have patience if you would like to load them as heroku will have put them to sleep._</sup>
 
