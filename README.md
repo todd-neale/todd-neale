@@ -17,8 +17,8 @@
     * websockets: live chat so that enthusiasts can chew the fat on their upcoming and past rambles.
 #### Tash Richards Yoga - https://tashrichards.yoga/
 <img height='30' src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nuxtjs-512.png" />
-* a small yoga website for my friend a yogi Tash Richards.
-* the app is built using Nuxt.js and CraftCMS using elementAPI as a backend
+- a small yoga website for my friend a yogi Tash Richards. <br>
+- the app is built using Nuxt.js and CraftCMS using elementAPI as a backend<br><br>
 
 <sup>_Since these sites do not yet have a vibrant user base, please have patience if you would like to load them as heroku will have put them to sleep._</sup>
 
