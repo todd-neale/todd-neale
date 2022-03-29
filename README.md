@@ -15,7 +15,7 @@
 #### Tash Richards Yoga - https://tashrichards.yoga/
 <img height='30' src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nuxtjs-512.png" />
 - a small yoga website for my friend a yogi Tash Richards. <br>
-- the app is built using Nuxt.js and CraftCMS using elementAPI as a backend<br><br>
+- the app is built using Nuxt.js and CraftCMS using elementAPI as a backend<br>
 
 #### API Depreciation Backend - https://tray-dashboard-aatd-app.herokuapp.com <img height='30' src="https://res.cloudinary.com/practicaldev/image/fetch/s--fMLkbtT9--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/j0xrwz8vsxkvc5b4nndy.png" />
 * Hackathon task to make a dashboard for a middleware company to track all the APIs they have integrated and any upcoming updates or depreciations.
