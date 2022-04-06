@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My name is Todd</h1>
 <h3 align="center">I am Ruby on Rails Teacher at Le Wagon, London</h3>
 
-- 🌱 I’m currently spending time learning **Javascript** and **React**
+- 🌱 I’m currently spending time learning **Javascript** and **Vue.js**
 
 - 🐈‍⬛ My website is [toddneale.xyz](http://toddneale.xyz/)
 
