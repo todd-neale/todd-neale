@@ -7,8 +7,7 @@
 
 - 🖼 You can find my [portfolio here](https://github.com/todd-neale/Portfolio/blob/main/README.md)
 
-<h5>A list of my favourite websites</h5>
-<hr>
+<h4>A list of my favourite websites</h4>
 
 - [Rayon Vert](https://rayonvert.international/)
 
